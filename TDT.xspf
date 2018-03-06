@@ -1,0 +1,360 @@
+<?xml version="1.0" ?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+    <!--Playlist generada con los canales de https://github.com/ruvelro/TV-Online-TDT-Spain y el script TDTSpain2VLC-->
+    <title>Canales TDT</title>
+    <trackList>
+        <track>
+            <title>Antena 3</title>
+            <location>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>La Sexta</title>
+            <location>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>6</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>A3Series</title>
+            <location>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>7</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Nova</title>
+            <location>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>8</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Neox</title>
+            <location>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>9</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Mega</title>
+            <location>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>10</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Real Madrid TV</title>
+            <location>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>13</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVE 60 aniversario</title>
+            <location>http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>20</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>13TV</title>
+            <location>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>21</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Aragon TV - Aragon (AR)</title>
+            <location>http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>29</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TPA - Asturias (AS)</title>
+            <location>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>30</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>IB3 - Baleares (IB)</title>
+            <location>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>31</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTVC net - Canarias (CN)</title>
+            <location>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>32</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Popular TV - Cantabria (CB)</title>
+            <location>http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>33</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV3 - Cataluña (CT)</title>
+            <location>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>37</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>324 - Cataluña (CT)</title>
+            <location>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>38</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>C33 - Cataluña (CT)</title>
+            <location>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>39</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>8TV - Cataluña (CT)</title>
+            <location>http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>40</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>C. Extremadura - Extramadura (EX)</title>
+            <location>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>41</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVG Europa - Galicia (GA)</title>
+            <location>http://europa-crtvg.flumotion.com/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>42</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVG America - Galicia (GA)</title>
+            <location>http://america-crtvg.flumotion.com/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>43</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Telemadrid - Madrid (MD)</title>
+            <location>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>45</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Navarra TV - Navarra (NC)</title>
+            <location>http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&amp;system=NTV&amp;protocol=http_cupertino/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>49</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Vaughan TV - Navarra (NC)</title>
+            <location>http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>50</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Eitb - P.Vasco (PV)</title>
+            <location>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>51</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Mediterraneo TV - C.Valenciana (VC)</title>
+            <location>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&amp;referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&amp;zz=m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>53</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTV Ceuta - Ceuta (CE)</title>
+            <location>http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>54</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Ceuta TV - Ceuta (CE)</title>
+            <location>http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>55</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Onda Algeciras TV - Cádiz (AN)</title>
+            <location>http://cls.provideo.es/algecirastv/livestream/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>57</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV Ibiza-Formentera - Baleares(IB)</title>
+            <location>http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>60</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Popular TV - Cantabria (CB)</title>
+            <location>http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>62</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BTV/Betevé - Barcerlona (CT)</title>
+            <location>http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>64</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>VOTV - Barcelona (CT)</title>
+            <location>http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>65</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Andorra TV - Lleida (CT)</title>
+            <location>http://194.158.80.31:443/live/web/master.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>66</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Ribera TV - Valencia (VC)</title>
+            <location>http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>69</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Sevilla F.C.</title>
+            <location>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>75</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Cordoba Internacional</title>
+            <location>http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>78</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>HispanTV</title>
+            <location>http://107.189.40.49:1935/live/hispantv/playlist.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>79</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Russia Today Español</title>
+            <location>https://secure-streams.akamaized.net/rt-esp/index.m3u8</location>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>80</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+    </trackList>
+    <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:item tid="3"/>
+        <vlc:item tid="6"/>
+        <vlc:item tid="7"/>
+        <vlc:item tid="8"/>
+        <vlc:item tid="9"/>
+        <vlc:item tid="10"/>
+        <vlc:item tid="13"/>
+        <vlc:item tid="20"/>
+        <vlc:item tid="21"/>
+        <vlc:item tid="29"/>
+        <vlc:item tid="30"/>
+        <vlc:item tid="31"/>
+        <vlc:item tid="32"/>
+        <vlc:item tid="33"/>
+        <vlc:item tid="37"/>
+        <vlc:item tid="38"/>
+        <vlc:item tid="39"/>
+        <vlc:item tid="40"/>
+        <vlc:item tid="41"/>
+        <vlc:item tid="42"/>
+        <vlc:item tid="43"/>
+        <vlc:item tid="45"/>
+        <vlc:item tid="49"/>
+        <vlc:item tid="50"/>
+        <vlc:item tid="51"/>
+        <vlc:item tid="53"/>
+        <vlc:item tid="54"/>
+        <vlc:item tid="55"/>
+        <vlc:item tid="57"/>
+        <vlc:item tid="60"/>
+        <vlc:item tid="62"/>
+        <vlc:item tid="64"/>
+        <vlc:item tid="65"/>
+        <vlc:item tid="66"/>
+        <vlc:item tid="69"/>
+        <vlc:item tid="75"/>
+        <vlc:item tid="78"/>
+        <vlc:item tid="79"/>
+        <vlc:item tid="80"/>
+    </extension>
+</playlist>

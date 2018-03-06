@@ -1,0 +1,5 @@
+#Escribe aquí los nombres de los canales que NO quieres añadir a la playlist
+#Si hay canales especificados en Whitelist, este archivo será ignorado
+#Escribe un sólo canal por línea
+#Los nombres de los canales deben coincidir con los nombres especificados aquí:
+#https://github.com/ruvelro/TV-Online-TDT-Spain
