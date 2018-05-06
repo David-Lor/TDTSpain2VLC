@@ -1,6 +1,6 @@
 # TDTSpain2VLC
 
-Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC.
+Script Python3 para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC.
 
 El listado de canales se obtiene del repositorio TV-Online-TDT-Spain: https://github.com/ruvelro/TV-Online-TDT-Spain
 
